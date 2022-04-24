@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 2/Sensors_app_Minet_Sabioni/app/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 3/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_data.xml" value="0.11666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 3/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_device.xml" value="0.2151268115942029" />
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 3/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_main.xml" value="0.1671195652173913" />
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 3/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_scan.xml" value="0.2151268115942029" />
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 3/Movesense_app_Minet_Sabioni/app/src/main/res/layout/scan_res_item.xml" value="0.2151268115942029" />
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 3/Movesense_app_Minet_Sabioni/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.240625" />
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 3/Movesense_app_Minet_Sabioni/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.240625" />
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/CM2001 - Assignment 3/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/AndroidStudioProjects/Movesense_app_Minet_Sabioni/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_device.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/Movesense_app_Minet_Sabioni/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_scan.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/Movesense_app_Minet_Sabioni/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Movesense_app_Minet_Sabioni/Movesense_app_Minet_Sabioni/app/src/main/res/layout-land/activity_real_time_acc.xml" value="0.31040564373897706" />
+        <entry key="..\:/Movesense_app_Minet_Sabioni/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_device.xml" value="0.37694300518134716" />
+        <entry key="..\:/Movesense_app_Minet_Sabioni/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_real_time_acc.xml" value="0.36666666666666664" />
+        <entry key="..\:/Movesense_app_Minet_Sabioni/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_scan.xml" value="0.3451086956521739" />
+        <entry key="..\:/Movesense_app_Minet_Sabioni/Movesense_app_Minet_Sabioni/app/src/main/res/layout/activity_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Movesense_app_Minet_Sabioni/Movesense_app_Minet_Sabioni/app/src/main/res/layout/scan_res_item.xml" value="0.3451086956521739" />
+        <entry key="..\:/Sensors_app_Minet_Sabioni/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

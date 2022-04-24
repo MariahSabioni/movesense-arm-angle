@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movesense_app_Minet_Sabioni</string>
+    <string name="scan_movesense_devices">Scan for Movesense devices</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="no_device">No device</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="service_not_found">Service not found</string>
+    <string name="notifications_enabled">Notifications enabled</string>
+    <string name="no_data">No data</string>
+    <string name="ble_scan_stopped">BLE scan stopped</string>
+    <string name="waiting">Waiting for connection...</string>
+
+    <string-array name="frequencyValues">
+        <item>13</item>
+        <item>26</item>
+        <item>52</item>
+    </string-array>
+
+    <string-array name="sensorValues">
+        <item>IMU9</item>
+        <item>IMU6</item>
+    </string-array>
+
+    <string-array name="dataValues">
+        <item>Acc</item>
+        <item>Gyro</item>
+        <item>Magn</item>
+    </string-array>
+
+</resources>
